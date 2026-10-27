@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Fond de l'application : identique au fond du CLI Hermes. -->
+    <color name="hermes_background">#1E1E2E</color>
+    <!-- Or : couleur d'accent principale. -->
+    <color name="hermes_gold">#FFD700</color>
+</resources>

@@ -17,7 +17,7 @@ class CesarApp extends StatelessWidget {
     return MaterialApp(
       title: "App de César",
       debugShowCheckedModeBanner: false,
-      theme: AppTheme.light,
+      theme: AppTheme.dark,
       home: const HomeScreen(),
     );
   }
